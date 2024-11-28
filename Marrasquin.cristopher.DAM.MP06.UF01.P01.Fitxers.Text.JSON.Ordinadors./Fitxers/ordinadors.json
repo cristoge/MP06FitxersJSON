@@ -1,0 +1,16 @@
+[
+  {
+    "marca": "Lenovo",
+    "model": "Thinkpad",
+    "memoria": 16,
+    "discDur": 256,
+    "processador": "Intel Core i5-6200U"
+  },
+  {
+    "marca": "Apple",
+    "model": "MacBook Air",
+    "memoria": 16,
+    "discDur": 512,
+    "processador": "M3"
+  }
+]
